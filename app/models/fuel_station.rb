@@ -1,0 +1,2 @@
+class FuelStation < ApplicationRecord
+end
